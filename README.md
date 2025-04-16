@@ -1,4 +1,4 @@
-<h1 align="center">Hello world, This is Narmin</h1>
+<h1 align="center">Hello world, I'm Narmin</h1>
 <h3 align="center">I'm a Front-end developer</h3>
 <img width="100%" height="auto" src="https://github.com/halfrost/halfrost/raw/master/icons/header_.png" height="175px"/>
 
